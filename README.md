@@ -18,7 +18,16 @@ MediaPipe (pip install mediapipe)
 NumPy (pip install numpy)
 
 
+### OUTPUT: 
 
+- when login run
+> <img width="1440" alt="Screenshot 1402-07-02 at 20 36 11" src="https://github.com/samiramohammadian/Hand-Controlled-Menu/assets/87034655/adeddb3d-d608-4296-8db6-dca47bb8fb2e">
 
+- when detect hand
+> <img width="1440" alt="Screenshot 1402-07-02 at 20 37 06" src="https://github.com/samiramohammadian/Hand-Controlled-Menu/assets/87034655/197102c5-3471-40d6-a1d4-2cd8648d6ab6">
 
+- when you stand on one button
+> <img width="1440" alt="Screenshot 1402-07-02 at 20 38 01" src="https://github.com/samiramohammadian/Hand-Controlled-Menu/assets/87034655/fb1fbde8-3bbd-412a-8ed7-e742a0b11e23">
+
+! if you want to use the game please check game-hand repo 
 
