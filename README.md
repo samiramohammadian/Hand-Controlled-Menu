@@ -30,4 +30,5 @@ NumPy (pip install numpy)
 > <img width="1440" alt="Screenshot 1402-07-02 at 20 38 01" src="https://github.com/samiramohammadian/Hand-Controlled-Menu/assets/87034655/fb1fbde8-3bbd-412a-8ed7-e742a0b11e23">
 
 ! if you want to use the game please check game-hand repo 
+https://github.com/samiramohammadian/Game-Spaceship_withHand
 
